@@ -1,0 +1,8 @@
+.git
+.svn
+Dockerfile
+Corrade.ini
+cache
+*.sln
+*.suo
+*.userprefs
