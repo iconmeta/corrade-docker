@@ -2,6 +2,7 @@
 .svn
 Dockerfile
 Corrade.ini
+**/Corrade.ini
 cache
 *.sln
 *.suo
