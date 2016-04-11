@@ -1,4 +1,4 @@
-ker p# corrade-docker
+# corrade-docker
 
 Corrade ( http://grimore.org/secondlife/scripted_agents/corrade ) is a scripted
 agent/bot written in C# that can log in multiple avatars and respond to commands
